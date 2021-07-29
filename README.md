@@ -1,2 +1,2 @@
 # Exploratory-Data-Analysis
-este é um projeto no qual eu realizei uma análise exploratória de dados
+This is a repository of a study project in which I did an exploratory data analysis in a tip dataset.
