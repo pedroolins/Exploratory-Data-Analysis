@@ -1,2 +1,2 @@
 # Exploratory-Data-Analysis
-This is a repository of a study project in which I did an exploratory data analysis in a tip dataset.
+Este é um projeto de estudo no qual fiz uma análise exploratória de dados em um conjunto de dados sobre gorjetas.
